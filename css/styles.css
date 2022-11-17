@@ -8,6 +8,7 @@
     --background-gray: #2F303A;
 }
 body {
+    margin: 0;
     font-family: 'Roboto', 'Raleway', sans-serif;
     color: #212121
 }
